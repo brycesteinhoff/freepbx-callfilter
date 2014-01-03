@@ -1,0 +1,19 @@
+<module>
+	<rawname>callfilter</rawname>
+	<repo>unsupported</repo>
+	<name>Call Filter</name>
+	<version>0.1.0.0</version>
+	<publisher>Bryce Steinhoff</publisher>
+	<info>http://github.com/brycesteinhoff</info>
+	<description>Advanced blacklisting and whitelisting</description>
+	<license>GPL</license>
+	<category>Admin</category>
+	<menuitems>
+		<callfilter>Call Filter</callfilter>
+		<callfilter_whitelist hidden="true">Call Filter - Whitelist</callfilter_whitelist>
+		<callfilter_blacklist hidden="true">Call Filter - Blacklist</callfilter_blacklist>
+	</menuitems>
+	<changelog>
+		*0.1.0.0* Original Release (beta)
+	</changelog>
+</module>
